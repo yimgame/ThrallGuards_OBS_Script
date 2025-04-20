@@ -1,3 +1,22 @@
+"""
+Script de Auto stop de ThrallGuards para OBS
+
+Este script fue creado por Yim con la ayuda de ChatGPT-4o.
+Activa una fuente de outro final de video y detiene la grabación tras un breve retraso.
+
+¡Hola a todos!
+Soy Yim, y este es el primer script pyhton para OBS que comparto.
+
+Necesitaba una forma de activar una escena de outro y detener la grabación tras un breve retraso. Busqué en el foro de OBS, pero no estaba seguro de cómo se llamaría este tipo de script, así que contacté con mi mejor amigo programador, ChatGPT-4o, ¡y juntos lo creamos!
+
+Es un script simple, pero cumple su función. Sé que hay muchísimo código avanzado por ahí, pero quizás esto pueda serle útil a alguien.
+
+Cualquier comentario o sugerencia es bienvenida.
+
+Saludos de mi parte (y de los Thrall Guards, ¡la mejor hermandad de WoW de todos los tiempos 😄⚔️)!
+"""
+
+
 import obspython as obs
 import threading
 import time
