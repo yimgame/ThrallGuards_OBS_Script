@@ -30,3 +30,6 @@ Thanks for reading, and best regards from me (and from the **Thrall Guards**, th
 https://www.thrallguards.com.ar
 
 Just coding 4 fun !!!
+
+
+![image](https://github.com/user-attachments/assets/a1a1524e-bd4e-4b7b-b9ff-29c138ff8aba)
